@@ -1,0 +1,4 @@
+Inheritance is an OOP concept that allows one class to acquire the properties and methods of another class.
+The class that is inherited from is called the Parent/Base Class.
+The class that inherits the properties is called the Child/Derived Class.
+Inheritance helps in code reusability and reduces code duplication.
